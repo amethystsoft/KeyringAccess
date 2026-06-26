@@ -1,0 +1,6 @@
+version: 1
+external_links:
+  documentation: "https://amethystsoft.github.io/KeyringAccess/keyring/documentation/keyringaccess/"
+builder:
+  configs:
+    - platform: linux
